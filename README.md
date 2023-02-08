@@ -1,4 +1,5 @@
-## Olá, eu sou a Daiana 👋
+## Olá, eu sou a Daiana! ![New Piskel](https://user-images.githubusercontent.com/68859813/216802609-33a2ba4e-1da4-498b-bfee-e021f4c7f28c.gif)
+
 
 <div align="center">
   <a href="https://github.com/daianalien">
