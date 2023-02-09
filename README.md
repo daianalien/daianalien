@@ -47,7 +47,7 @@ Este repositório esta em desenvolvimento ainda, pois eu iniciei os estudos e o 
  
  ##
 
-### Você pode me acha também 🔗
+### Você também pode me achar em: 🔗
 
 <div> 
   <a href="https://www.linkedin.com/in/daiana-vaz-torres-28849210a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
