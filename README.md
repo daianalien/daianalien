@@ -11,11 +11,11 @@
 ### Sobre mim: 
 
 <img align="left" alt="dai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72092263/190477509-57bbfcf2-d0d4-4094-910c-36da9ae1c756.png" />
-Graduada no curso de Bacharel em Desig pela FAE Centro Universitário, Campus Curitiba.
+Graduada no curso de Bacharel em Design pela FAE Centro Universitário, Campus Curitiba.
 
-Atualmente desempenho a função de desenvolvedora de software, atuando na parte do front-end. Desenvolvo a parte de design utilizando o Figma e os componentes da interface de usuário utilizando o Vuejs, participo também da documentação do software. 
+Atualmente desempenho a função de desenvolvedora de software, atuando na parte do front-end. Desenvolvo a parte de design  e usabilidade utilizando o Figma e os componentes da interface de usuário utilizando o Vuejs, participo também da documentação do software. 
 
-Este repositório esta em desenvolvimento ainda, pois eu iniciei os estudos e o trabalho como desenvolvedora recentemente.
+Este repositório esta em desenvolvimento, pois iniciei os estudos e o trabalho como desenvolvedora recentemente.
 
 
 ##
