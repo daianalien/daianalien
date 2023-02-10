@@ -4,7 +4,7 @@
   👨‍💻 Trabalhando como FrontEnd Developer <br>
   🌱 Estudando: Javascript, Typescript, Vuejs e React <br>
   🗣️ Línguas: Português, English, 한국어<br>
-  👦 Pronomes: Ela/Dela <br>
+  👧🏻 Pronomes: Ela/Dela <br>
   
   ##
   
