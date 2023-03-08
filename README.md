@@ -2,7 +2,7 @@
 
 
  
-  🌱 Estudando: Javascript, Typescript, Vuejs e React <br>
+  🌱 Estudando: Javascript, Typescript e Vuejs  <br>
   🗣️ Línguas: Português, English, 한국어<br>
   👧🏻 Pronomes: Ela/Dela <br>
   
