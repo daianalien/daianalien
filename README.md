@@ -38,14 +38,7 @@ Este repositório esta em desenvolvimento, pois iniciei os estudos e o trabalho 
 
 ##
 
-###  Github Stats:
 
-<div align="rigth">
-  <a href="https://github.com/daianalien">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianalien&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  
- 
- ##
 
 ### Você também pode me achar em: 
 
