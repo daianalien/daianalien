@@ -10,7 +10,6 @@
   
 ### Sobre mim: 
 
-<img align="left" alt="dai-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72092263/190477509-57bbfcf2-d0d4-4094-910c-36da9ae1c756.png" />
 Graduada no curso de Bacharel em Design pela FAE Centro Universitário, Campus Curitiba.
 
 Atualmente desempenho a função de desenvolvedora de software, atuando na parte do front-end. Desenvolvo a parte de design  e usabilidade utilizando o Figma e os componentes da interface de usuário utilizando o Vuejs, participo também da documentação do software. 
@@ -29,7 +28,6 @@ Este repositório esta em desenvolvimento, pois iniciei os estudos e o trabalho 
   <img align="center" alt="dai-vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
   <img align="center" alt="dai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="dai-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
 
