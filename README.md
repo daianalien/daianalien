@@ -2,8 +2,8 @@
 
 
  
-  🌱 Estudando: Javascript, Typescript e Vuejs  <br>
-  🗣️ Línguas: Português, English, 한국어<br>
+  🌱 Estudando: PHP e coreano <br>
+  🗣️ Línguas: Português e English<br>
   👧🏻 Pronomes: Ela/Dela <br>
   
   ##
