@@ -2,7 +2,7 @@
 
 
  
-  🌱 Estudando: PHP, JS. nodejs e coreano <br>
+  🌱 Estudando: React, Typescript e coreano <br>
   🗣️ Línguas: Português e English<br>
   👧🏻 Pronomes: Ela/Dela <br>
   
