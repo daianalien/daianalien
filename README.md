@@ -1,7 +1,7 @@
 ## Olá, eu sou a Daiana! 
 
  
-  🌱 Estudando: React, Typescript e coreano <br>
+  🌱 Estudando: Vuejs e coreano <br>
   🗣️ Línguas: Português e English<br>
   👧🏻 Pronomes: Ela/Dela <br>
   
