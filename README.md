@@ -1,7 +1,7 @@
 ## Olá, eu sou a Daiana! 
 
  
-  🌱 Estudando: Vuejs e coreano <br>
+  🌱 Estudando: CC50, coreano e japonês <br>
   🗣️ Línguas: Português e English<br>
   👧🏻 Pronomes: Ela/Dela <br>
   
